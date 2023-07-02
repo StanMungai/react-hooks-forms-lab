@@ -11,4 +11,4 @@ function Header({ isDarkMode, onDarkModeClick }) {
   );
 }
 
-export default Header;
+export default Header; 
